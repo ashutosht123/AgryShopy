@@ -1,0 +1,39 @@
+.A{
+    background-color: brown;
+    width: 700px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    margin-top: 20%;
+    left: 50%;
+
+}
+.shot{
+    color: white;
+    position:absolute;
+    top: 20px;
+    left: 40%;
+
+}
+.B{
+    background-color: navy;
+    height: 120pt;
+    position: relative;
+    top: 30%;
+}
+.C{
+    background-color: white;
+    border-radius: 50%;
+    height:120px;
+    width: 120px;
+    position: absolute;
+    left: 40%;
+    top: 12%;
+
+}
+.main{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+}
+
